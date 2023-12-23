@@ -4,7 +4,7 @@ I'm Dhara Khamar, a passionate Data Science aspirant based in Bangalore. Welcome
 
 ## About Me
 
-- 🌐 passionate about working in Data Science and developing Machine Learning algorithms to derive valuable insights from data.
+- 🌐 passionate about working in Data Science and developing models based on Machine Learning algorithms to derive valuable insights from data.
 - 🚀 Exploring the Field of Data Science
 - 💡 Always eager to learn new things and share knowledge
 - 🎓 M.Tech (Computer Science)
@@ -58,5 +58,5 @@ I'm Dhara Khamar, a passionate Data Science aspirant based in Bangalore. Welcome
 
 - 📧 Email:dhararajput1988@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/dhara-khamar-285baa138
-- 
+
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
